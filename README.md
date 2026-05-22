@@ -40,11 +40,6 @@ Recommended environment:
 - scikit-learn
 - pytorch-metric-learning
 
-Example installation:
-
-```bash
-pip install torch torchvision numpy scipy pillow scikit-learn pytorch-metric-learning
-```
 
 ## 🚀 Training
 
