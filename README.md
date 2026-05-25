@@ -1,6 +1,6 @@
 # A Style-Based Profiling Framework for Quantifying the Synthetic-to-Real Gap in Autonomous Driving Datasets
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.12345-b31b1b.svg)](https://arxiv.org/abs/2510.10203)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.10203-b31b1b.svg)](https://arxiv.org/abs/2510.10203)
 
 🏆 **Accepted to IEEE IV 2026 - The IEEE Intelligent Vehicles Symposium (IV)**
 
