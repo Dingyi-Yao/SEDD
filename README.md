@@ -2,6 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.10203-b31b1b.svg)](https://arxiv.org/abs/2510.10203)
 
+[![Poster](https://img.shields.io/badge/Poster-PDF-blue?logo=adobeacrobatreader)](IV26P_46.pdf)
+
 🏆 **Accepted to IEEE IV 2026 - The IEEE Intelligent Vehicles Symposium (IV)**
 
 <p align="center">
